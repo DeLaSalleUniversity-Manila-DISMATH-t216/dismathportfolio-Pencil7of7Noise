@@ -65,6 +65,8 @@ dismathportfolio-Pencil7of7Noise created by Classroom for GitHub
     4. Proof by Contradiction (indirect)
 - Closure property states that theresult would be part of the same set as its conditions.
 
+
+
 - Keith Ivan B. Maderazo
 - EL
   
