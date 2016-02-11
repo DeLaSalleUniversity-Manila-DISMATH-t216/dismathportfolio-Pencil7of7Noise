@@ -65,6 +65,16 @@ dismathportfolio-Pencil7of7Noise created by Classroom for GitHub
     4. Proof by Contradiction (indirect)
 - Closure property states that theresult would be part of the same set as its conditions.
 
+# WEEK 4
+- Proof
+  - Methods of Proof
+    5. Mathematical Induction (=! Recursion)
+- Recursion
+  - Steps
+    1. Basis Step
+    2. Recursive Step
+  - Recursive Algorithm-solves a problem by reducing it to an instance of the same problem.
+
 
 
 - Keith Ivan B. Maderazo
