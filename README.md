@@ -68,7 +68,7 @@ dismathportfolio-Pencil7of7Noise created by Classroom for GitHub
 # WEEK 4
 - Proof
   - Methods of Proof
-    5. Mathematical Induction (=! Recursion)
+    e. Mathematical Induction (=! Recursion)
 - Recursion
   - Steps
     1. Basis Step
