@@ -75,6 +75,62 @@ dismathportfolio-Pencil7of7Noise created by Classroom for GitHub
     2. Recursive Step
   - Recursive Algorithm-solves a problem by reducing it to an instance of the same problem.
 
+# WEEK 5
+- Program Correctness
+   - Program Verification
+    - 2 Steps
+      1. Partial Correctness
+        - Hoare Triple, p{S}q 
+      2. Show program termination
+    - Rules of Inferences
+      - Composition Rule
+      - Conditional Statement
+- Power Series
+  - Zeno's Paradox
+   - Geometric Progression
+ - f(x) defined inside a convergence (finite sum).
+- Set Theory
+  - Set
+    - Empty Set
+    - Membership
+    - Set Builder Notation
+    - Venn Diagram
+      - Set Identities
+        1. Commutative Laws
+        2. Associative Laws
+        3. Distributive Laws
+        4. Identity Laws
+        5. Complementation Laws
+        6. Complement Laws
+        7. Idempotent Laws
+        8. Universal Bound Laws
+        9. De Morgan’s Laws
+        10. Absorption Laws
+    - Subset
+      - Power Set
+        - set of all subsets
+    - Cardinality
+      - no. of elements a set contains
+- Operator Precedence
+  1. Parenthesis
+  2. Negation
+  3. Conjunction
+  4. Disjunction
+  5. Conditional
+  6. Biconditional
+
+# WEEK 6
+- Functions
+  - Co-domain
+    - whole of y-values
+    - assigns to final result
+    - Range
+      - subset of co-domain
+  - Types
+    - One-to-One
+    - Onto Function
+    - Bijection
+
 
 - Keith Ivan B. Maderazo
 - EL
