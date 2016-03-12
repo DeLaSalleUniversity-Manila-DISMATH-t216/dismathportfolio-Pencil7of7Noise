@@ -131,6 +131,38 @@ dismathportfolio-Pencil7of7Noise created by Classroom for GitHub
     - Onto Function
     - Bijection
 
+# WEEK 7
+- Algorithm
+  - finite set of precise instructions for performing a computationn or for solving a problem
+  - to instruct machines
+    - Precondition-initial assertion; describes valid input
+    - Postcondition-final assertion; should satisfy input
+    - Iteration Table
+      - used to help in understanding algorithms
+  - Pseudocode
+    - high-level description of algorithm that uses the structural conventions of a programming language
+    - Properties
+      - Input
+      - Output
+      - Definiteness
+      - Correctness
+      - Finiteness
+      - Generality
+  - Searching Algorithm
+    1. Linear Serch-recommended for a small number of elements; sequential
+    2. Binary Search-recommended for a large number of elements; dividing
+
+# WEEK 8
+- Algorithm
+  - Sorting Algorithm
+    1. Bubble Sort-right to left
+    2. Insertion Sort-left to right
+- swap operator
+- Loop
+  - for loop-start and end are known
+  - while loop-encertain end
+  - 0 to -1
+    - no loop if incrementing
 
 - Keith Ivan B. Maderazo
 - EL
