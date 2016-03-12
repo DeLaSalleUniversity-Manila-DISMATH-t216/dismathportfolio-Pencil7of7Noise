@@ -159,9 +159,8 @@ dismathportfolio-Pencil7of7Noise created by Classroom for GitHub
     2. Insertion Sort-left to right
 - swap operator
 - Loop
-  - for loop-start and end are known
-  - while loop-encertain end
-  - 0 to -1
+    - for loop-start & end are known
+    - while loop-uncertain end
     - no loop if incrementing
 
 - Keith Ivan B. Maderazo
