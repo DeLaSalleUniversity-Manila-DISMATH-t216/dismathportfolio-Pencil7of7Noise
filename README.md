@@ -162,6 +162,14 @@ dismathportfolio-Pencil7of7Noise created by Classroom for GitHub
     - for loop-start & end are known
     - while loop-uncertain end
     - no loop if incrementing
+  - Greedy Algorithm
+    - to know the best steo
+
+# WEEK 9
+- Growth of Functions
+  - Big-O Notation (upper-bound)
+  - Big-Ω Notation (lower-bound)
+  - Big-ϴ Notation (both)
 
 - Keith Ivan B. Maderazo
 - EL
