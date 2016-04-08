@@ -1,5 +1,7 @@
 # My DISMATH Portfolio
 dismathportfolio-Pencil7of7Noise created by Classroom for GitHub
+- Keith Ivan B. Maderazo
+- EL
 # WEEK 1
 - Discrete Mathematics is the study of distinct and countable objects.
 - Mathematical proof of a proposition is a chain of logical deductions leading to the preposition from a base set of axioms.
@@ -171,6 +173,132 @@ dismathportfolio-Pencil7of7Noise created by Classroom for GitHub
   - Big-Ω Notation (lower-bound)
   - Big-ϴ Notation (both)
 
-- Keith Ivan B. Maderazo
-- EL
-  
+# WEEK 10
+- Algorithm Time Complexity
+  - ϴ(1)-constant complexity
+  - ϴ(log n)-lograrithmic complexity
+  - ϴ(n)-linear complexity
+  - ϴ(n log n)-n log n complexity
+  - ϴ(n^b), where b>1-polynomial complexity
+  - ϴ(b^n), where b>1-exponential complexity
+  - ϴ(n!)-factorial complexity
+- log has a base of 2.
+
+#WEEK 11
+- Graph Theory
+  - Graph
+    - discrete structure containing vertices and edges
+      - Vertex (Node)
+        - Pendant Node
+          - has one degree
+          - 1 pendant-no circuit
+          - 3 pendants-no path and circuit
+        - Isolated Node-
+      - Edge-has either one or twoe vertices associated with it called endpoints
+    - Degree [of a Vertex]-no. of connection it makes
+    - Handshaking Theorem
+      - 2e = ∑deg(v); e=no. of edge/s; deg=degree; v=no. of vertex/ices
+    - Subgraph
+      -subset of an existing graph
+    - Path (Route)
+      -sequence of edges that begins at a vertex of a graph and travels form vertex to vertex along the edges of the graph
+    - Circuit (Network)
+      - path that returns to its initial position
+    - Euler Circuits and Paths
+      - contains every edge
+      - (circuit) has even degree for each vertex
+      - (path) has 2 vertices with odd degrees
+        - Euler's Formula
+          - r = e-v+2; r=no. of regions
+    - Hamilton Circuits and Paths
+      - passes through every vertex exactly once
+    - Walk
+      - open walk (path)
+      - closed walk (circuit)
+    - Matwices of Graphs
+      - Adjacency Matrix
+        - n by n zero-one matrix w/ 1 as (i,j)th entry when the nodes are adjacent, and 0 as ots (i,j)th entry when they are not                connected
+    - Isomorphism of Graphs
+      - equivalent graphs with different shapes
+      - connections are preserved
+    - Planar Graphs
+      - graphs that can be drawn in the plane without edges having to cross
+      - applies to somorphic graphs
+    - Homeomorphic Graphs
+      - supergraph
+    - Kuratowski's Theorem
+      - Elementary Subdivision-way to know if the graph is planar or not, and if it is homeomorphic or not
+
+# WEEK 12 
+- Graph Theory
+  - Graph Coloring
+    - minimal no. nodes such that no adjacent colors are the same
+    - represent islands as nodes
+    - Chromatic no. of Graphs
+      - least no. of colors
+        - planar-4
+          - 4 Color Theorem
+            - chromatic no. of a planar graph is no greater than 4
+        - cycle
+          - odd-3
+          - even-2
+        - K-sub-n-n
+        - wheel
+          - star-2
+  - Tree
+    - connected indirected graph woth no simple circuits
+    - Parts
+      - Root-head
+      - Parent-on top of a node/s
+      - Sibling-beside each other
+      - Child-below a arent
+      - Leaf-last part; no children
+    - Forest-graph with at least 2 trees
+    - Rooted Tree
+      - designated root and every edges goes awau from it
+      - Ordered Rooted Tree
+        - children of each internal vertex are ordered
+    - Internal Vertices
+      - nodes w/ children
+    - Subtree
+      - cut at a certain point 
+    - m-ary Tree
+      - uniform no. of children
+      - Binary Tree
+        - m=2
+    - Tree Traversal
+      - form of graph traversal and refers to the process of visiting--checking and/or updating--each node in a tree data structure,          exactly once
+    - Spanning Trees
+      - subset of a graph, which has all the vertices covered with minimum possible number of edges
+- Modeling Computation
+  - task turns into 2 questions
+    - Can it be done?
+    - How?
+  - Structures
+    - Language and Grammars
+      - Grammar
+        - generate words in a language to determine whether a word is in a language
+        - important in the construction and theory of compilers
+      - Formal Language
+        - provide models for both natural languages and programming languages
+        - syntax>semantics
+        - specified by a well-defined set of rules of syntax
+      - Compiler
+        - a program that reads a program written in a source language
+      - Strings
+        - common way to represent alphabets
+        - Alphabet
+          - defines strings
+          - finite set of symbols
+    - Finite-State Machines
+      - Automata Theory
+        - studies the laws of computation
+        - Finite Automation
+          - simplest model of a computing device
+        - Lexical Analysis
+          - stream of characters read from left-to-right and grouped into tokens
+          - Tokens
+            - sequence of characters w/ a collective meaning
+      - M = (states, S; input, I; finite output, O; transitional function, f; output function, g; initial state, s-sub-0)
+- Relations
+      
