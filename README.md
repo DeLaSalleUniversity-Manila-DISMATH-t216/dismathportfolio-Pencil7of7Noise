@@ -301,4 +301,33 @@ dismathportfolio-Pencil7of7Noise created by Classroom for GitHub
             - sequence of characters w/ a collective meaning
       - M = (states, S; input, I; finite output, O; transitional function, f; output function, g; initial state, s-sub-0)
 - Relations
-      
+  - A binary relation R from set to set is a subset of Cartesian product.
+  - Properties
+    - A relation on set A is a subset of AxA.
+    - Relations over Integers
+    - Functions as Relations
+      - Relation over integers Z
+      - Function from Z to Z
+      - Function from A to B assigns exactly one element from B to each input from A
+        - i.e., a functions is a restricted type of relation where every a in A is in exactly one ordered pair (a,b).
+    - Reflexive Relation
+    - Symmetric Relation
+    - Antisymmetric Relation
+    - Transitive Relation
+    - Combining Relations
+      - Composite Relation
+        - Power of Relation
+  - n-ary Relations
+    - An n-ary relation involves n sets and can be described by a set of n-tuples.
+  - Representing Relations
+    - Matrix
+    - Digraph
+  - Closures of Relations
+    - The closure of a relation R with respect to property P is the relation obtained by adding the minimum number of ordered pairs to       R to obtain property P. In terms of the digraph representation of R.
+    - to find the reflexive closure, add loops
+  - Equivalence Relations
+    - is a binary relation that is at the same time a reflexive relation, a symmetric relation and a transitive relation
+    - provides a partition of a set into equivalence classes
+  - Partial Ordering
+    - Partial Order
+      - relations that are reflexive, antisymmetric, and transitive
