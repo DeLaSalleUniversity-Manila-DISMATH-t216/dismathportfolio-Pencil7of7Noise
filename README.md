@@ -2,6 +2,8 @@
 dismathportfolio-Pencil7of7Noise created by Classroom for GitHub
 - Keith Ivan B. Maderazo
 - EL
+
+
 # WEEK 1
 - Discrete Mathematics is the study of distinct and countable objects.
 - Mathematical proof of a proposition is a chain of logical deductions leading to the preposition from a base set of axioms.
